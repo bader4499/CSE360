@@ -1,4 +1,10 @@
-
+/*	#CSE360
+ *  Bader Almutairi - 318
+ *  
+ *  Assignment 1
+ *  
+ *  SimpleList class
+ */
 
 public class SimpleList {
 	
